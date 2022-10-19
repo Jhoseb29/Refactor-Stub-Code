@@ -2,7 +2,7 @@
 
 var Queue = {
     items: [],
-    limit: 10,
+    limit:password,
   
     Add: function (e) {
       return this.items.length < this.limit
